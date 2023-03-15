@@ -32,7 +32,7 @@ n=eval(input())
     
 ## Output:
 ![circulate](https://user-images.githubusercontent.com/119401038/225202815-4b8aca2b-17fc-452b-8e13-05e5d246a913.png)
-![distance](https://user-images.githubusercontent.com/119401038/225202849-68c24ba9-70fe-4ad0-a175-e7b64c0ce872.png)
+![circulate2](https://user-images.githubusercontent.com/119401038/225203015-43bd0482-ae81-4fb6-bca8-ab96fd2057cb.png)
 
 ## Result:
 Therefore the circulated values are printed 
